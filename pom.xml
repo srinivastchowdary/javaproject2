@@ -23,9 +23,9 @@
 		<project.scm.id>gitserver</project.scm.id>
 	</properties>
 	<scm>
-			<url>https://github.com/sreekanth1990/javaproject</url>
-			<connection>scm:git:https://github.com/sreekanth1990/javaproject.git</connection>
-			<developerConnection>scm:git:https://github.com/sreekanth1990/javaproject.git</developerConnection>
+			<url>https://github.com/sreekanth1990/javaproject2.git</url>
+			<connection>scm:git:https://github.com/sreekanth1990/javaproject2.git</connection>
+			<developerConnection>scm:git:https://github.com/sreekanth1990/javaproject2.git</developerConnection>
 	  
     <tag>HEAD</tag>
   </scm>
